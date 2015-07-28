@@ -59,3 +59,6 @@ target/
 
 # Data
 data/
+
+# Other stuff
+.DS_Store
